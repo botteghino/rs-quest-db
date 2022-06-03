@@ -1,0 +1,10 @@
+[package]
+name = "rs-quest-db"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hex = "0.4.3"
+primitive-types = "0.11.1"
+rand = "0.8"
+thiserror = "1.0"
